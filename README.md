@@ -7,7 +7,6 @@
 💞️ I'm eager to collaborate on projects focusing on data analysis, leveraging tools like Python, SQL, Power BI, and machine learning.
 
 📫 Don't hesitate to get in touch with me through:
-1] Email: ashishsancheti013@gmail.com
-2] LinkedIn: https://www.linkedin.com/in/ashish-sancheti/
+Email: ashishsancheti013@gmail.com OR LinkedIn: https://www.linkedin.com/in/ashish-sancheti/
 
 Let's connect and explore potential opportunities to collaborate!
